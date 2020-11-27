@@ -9,6 +9,7 @@ Assim como na imagem, o projeto é divido em três partes sendo cada parte a hab
 1. Data Engineering
 2. Data Analysis
 3. Machine Learning Engineering
+
 Obs.: Entedimento de Negócio também é uma habilidade necessária para se tornar um Data Scientist, e o estudo dela vai ser por fora do projeto. 
 
 Em cada uma das pastas das partes tera um readme para dizer com objetividade o que ira ser estudado e os projetos a serem realizados. (meta-learning)
