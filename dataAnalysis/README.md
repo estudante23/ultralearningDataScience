@@ -28,6 +28,7 @@ Data cleaning é simples, resumido em conceito, pratica e muito cuidado com a in
 - [Ferramentas de visualização](https://bigdata-madesimple.com/review-of-20-best-big-data-visualization-tools/)
 - [Blogs sobre visualização de dados](https://www.tableau.com/pt-br/learn/articles/best-data-visualization-blogs)
 <h3>Ferramentas e Bibliotecas</h3>
+
 - Tableau
 - Matplotlib, Seaborn, Plotly
 - Pandas, Scrapy
