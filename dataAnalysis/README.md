@@ -18,7 +18,7 @@ Data cleaning é simples, resumido em conceito, pratica e muito cuidado com a in
   - [ ] Medidas de Posição
 
 * Estatística Inferencial
-  - [ ] Estimativa de Parâmetro
+  - [ ] Parameter Estimation
   - [ ] Hypotesis Testing
 
 * Difference Statistics
@@ -29,14 +29,6 @@ Data cleaning é simples, resumido em conceito, pratica e muito cuidado com a in
   - [ ] Linear
   - [ ] Non-Linear 
 
-<h3>Estatística avançada</h3>
-
-- [ ] Regressão linear
-- [ ] Teste de hipotese
-- [ ] Correlações (Pearson, Spearman, Kendall, Qui-Quadrado)
-- [ ] Inferência Estatística (Frequencista, Bayesiana e Probabilistica)
-- [ ] Intervalo de confiança
-- [ ] Teste A/B
 <h3>Vizualização de dados</h3>
 
 - [Tableau: Guia pratico da visualização de dados](https://www.tableau.com/pt-br/learn/articles/data-visualization)
