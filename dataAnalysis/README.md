@@ -9,11 +9,26 @@ Data cleaning é simples, resumido em conceito, pratica e muito cuidado com a in
 - [Uma ótima introdução a Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 
 ## Exploratory Analysis
-<h3>Estatística basica</h3>
 
-- [ ] População, amostra e tipos de váriaveis
-- [ ] Estatistica descritiva
-- [ ] Aleatoriedade
+### Tipos de Estatísticas
+
+* Estatística Descritiva
+  - [ ] Medidas de Tendência Central
+  - [ ] Medidas de Dispersão
+  - [ ] Medidas de Posição
+
+* Estatística Inferencial
+  - [ ] Estimativa de Parâmetro
+  - [ ] Hypotesis Testing
+
+* Difference Statistics
+  - [ ] 2 - sample
+  - [ ] Analysis of Variance (ANOVA)
+  
+* Associative Statistics
+  - [ ] Linear
+  - [ ] Non-Linear 
+
 <h3>Estatística avançada</h3>
 
 - [ ] Regressão linear
