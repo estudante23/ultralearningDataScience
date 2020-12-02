@@ -14,7 +14,7 @@ Data cleaning é simples, resumido em conceito, pratica e muito cuidado com a in
 
 * Estatística Descritiva
   - [x] Medidas de Tendência Central
-  - [ ] Medidas de Dispersão
+  - [x] Medidas de Dispersão
   - [ ] Medidas de Posição
 
 * Estatística Inferencial
