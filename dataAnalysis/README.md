@@ -10,6 +10,9 @@ Data cleaning é simples, resumido em conceito, pratica e muito cuidado com a in
 
 ## Exploratory Analysis
 
+Bons links para acessar:
++ [Artigo](https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012) do Towards Data Science(TDS). 
+
 ### Tipos de Estatísticas
 
 * Estatística Descritiva
