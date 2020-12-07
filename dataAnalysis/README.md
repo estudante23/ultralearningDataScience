@@ -30,7 +30,8 @@ _Parte livre para dissernir e idealizar o conceito de analise exploratoria_
 * Estatística Inferencial
   - [ ] Parameter Estimation
   - [ ] Hypotesis Testing
-
+  - [ ] A/B Test
+ 
 * Difference Statistics
   - [ ] 2 - sample
   - [ ] Analysis of Variance (ANOVA)
