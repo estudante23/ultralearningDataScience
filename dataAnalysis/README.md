@@ -17,7 +17,9 @@ Bons links para acessar:
 ### Um adendo inicial
 _Parte livre para discernir e idealizar o conceito de analise exploratoria_
 
-Em Ciência de Dados, a analíse exploratoria de dados(AED) é a filosofia de criar perguntas e responde-las as vezes com uma conclusão que se tirar dos dados, e as vezes é respondido com outra  pergunta. Ao contrario do ramo da estatística onde AED serve apenas chegar a conclusões, em ciência de dados existe o processo de modelagem dos dados que ira cuidar da parte treinar um modelo para predição ou classificação em um determinado conjunto de dados.  
+Em Ciência de Dados, a analíse exploratoria de dados(AED) é a fase de estudar os dados e tirar conclusão de insights sobre os dados, o resultado dessa fase é criação do modelo de machine learning ou os insights podem ser usados apenas para entedimento do negócio e assim guiando as proximas etapas da empresa, isso se chama Data Driven.
+No AED a utilização de graficos para entedimento dos dados é essencial, tornando muito simples responder as questões que os dados nos trazem.
+O AED de certa maneira pode ser comparada como uma ferramenta para responder perguntas(insights), podendo assim como na filosofia chegar a mais perguntas invés de uma resposta.
 
 
 ### Probabilidade 
