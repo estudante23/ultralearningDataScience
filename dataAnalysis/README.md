@@ -15,7 +15,7 @@ Bons links para acessar:
 + [Exploratory Data Analysis](https://www.itl.nist.gov/div898/handbook/eda/eda.htm) - Nist Sematech
 + [What is Exploratory Data Analysis](https://www.ibm.com/cloud/learn/exploratory-data-analysis) - IBM
 ### Um adendo inicial
-_Parte livre para dissernir e idealizar o conceito de analise exploratoria_
+_Parte livre para discernir e idealizar o conceito de analise exploratoria_
 
 Em Ciência de Dados, a analíse exploratoria de dados(AED) é a filosofia de criar perguntas e responde-las as vezes com uma conclusão que se tirar dos dados, e as vezes é respondido com outra  pergunta. Ao contrario do ramo da estatística onde AED serve apenas chegar a conclusões, em ciência de dados existe o processo de modelagem dos dados que ira cuidar da parte treinar um modelo para predição ou classificação em um determinado conjunto de dados.  
 
