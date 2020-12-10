@@ -23,7 +23,8 @@ O AED de certa maneira pode ser comparada como uma ferramenta para responder per
 
 
 ### Probabilidade 
-
+ 
+ - [ ] Teoria da Probabilidade
 ### Estatística
 
 * Estatística Descritiva
