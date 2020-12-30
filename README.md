@@ -1,4 +1,4 @@
-# Ultralearning Project - Data Science
+# Ultralearning Project: Data Science
 
 <p align="center"><img  src='readme-images/dataScienceProcess.jpeg' widht=400px height=400px ></p>
 
